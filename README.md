@@ -26,7 +26,7 @@ I love building projects, learning new technologies, and exploring AI & Data Sci
 
 ## 📫 Contact Me
 
-[![facebook](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/chanannat.kamtong/)
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebookn&logoColor=white)](https://www.facebook.com/chanannat.kamtong/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanannat@gmail.com)
 
 ---
