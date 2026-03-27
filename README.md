@@ -1,32 +1,38 @@
 # Hi there! 👋 I'm [CHANANNAT KAMTONG]
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+---
 
-## 🚀 About Me
-Hi! I'm a passionate developer and tech enthusiast.  
-I love building projects, learning new technologies, and exploring AI & Data Science.
-
-- 🌱 Currently learning: Machine Learning, Cloud Computing  
-- 👯 Looking to collaborate on Open Source projects  
-- 💬 Ask me about: Python, Web Development, Automation  
-- ⚡ Fun fact: I enjoy experimenting with small projects to solve real problems  
+## 🎓 Education
+- 📍 [Rajamangala University of Technology Thanyaburi]
+- 🧑‍💻 Major: [computer engineering]
+- 📅 Year: [1st Year Student]
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Programming
+- Python (Basic–Intermediate)
+- HTML
+- C Programming
+
+### Web Development
+- HTML
+### Tools
+- Visual Studio Code
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Web Development  
+- Machine Learning  
 
 ---
 
 ## 📫 Contact Me
 
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebookn&logoColor=white)](https://www.facebook.com/chanannat.kamtong/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chanannat.kamtong)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanannat@gmail.com)
 
 ---
@@ -37,5 +43,4 @@ I love building projects, learning new technologies, and exploring AI & Data Sci
 
 ---
 
-✨ Thanks for visiting my profile!  
-Let's connect and build amazing things together! 🚀
+✨ Thank you for visiting my profile!
